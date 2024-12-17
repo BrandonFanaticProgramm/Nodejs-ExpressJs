@@ -8,3 +8,4 @@ module.exports = class Square {
       return this.width ** 2;
     }
   };
+  
